@@ -1,10 +1,10 @@
-player_1=0
-player_2=0
+#code that prints out individual scores of two players in a game of cricket
+
+player_1,player_2=0,0
 X=True
-y=0
+y,i=0,0
 switch="player1"
 x=[1,2,3,2,1]
-i=0
 while X:
     if i<len(x):
         if x[i]%2==0:
