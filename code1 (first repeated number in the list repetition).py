@@ -1,3 +1,5 @@
+#first repeated number in the list repetition numbers
+
 y=[]       
 x=[1,2,3,2,3,5,6]
 for i in range(len(x)):
